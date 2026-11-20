@@ -20,4 +20,4 @@ Desenvolvo aplicações web e móveis de ponta a ponta, do frontend ao backend, 
 ## Contacto
 
 - E-mail: rrayares7@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/ryan-rayres-3b09b632a/)
+- [LinkedIn](https://www.linkedin.com/in/ryan-miranda-3b09b632a/)
